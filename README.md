@@ -1,8 +1,8 @@
+## Introduction
+
 Basic python + fast-api + SQLAlchemy app
 
 Originally done for a job interview but then reworked for fun.
-
-## Introduction
 
 This project implements a microservice to integrate and expose event data from an external provider into the Fever marketplace. It fetches events in XML format from the provider, stores them in a PostgreSQL database, and exposes a performant API endpoint to query events based on time ranges.
 
